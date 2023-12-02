@@ -5,7 +5,6 @@ namespace Singleton
     // Класс Одиночка предоставляет метод `GetInstance`, который ведёт себя как
     // альтернативный конструктор и позволяет клиентам получать один и тот же
     // экземпляр класса при каждом вызове.
-
     // EN : The Singleton should always be a 'sealed' class to prevent class
     // inheritance through external classes and also through nested classes.
     public sealed class Singleton
