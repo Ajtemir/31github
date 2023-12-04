@@ -48,6 +48,7 @@ namespace Prototype
             // Make a deep copy of p1 and assign it to p3.
             Person p3 = p1.DeepCopy();
 
+            
             // Display values of p1, p2 and p3.
             Console.WriteLine("Original values of p1, p2, p3:");
             Console.WriteLine("   p1 instance values: ");
