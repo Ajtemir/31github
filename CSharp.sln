@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{41158670-0DBB-47BD-A9D7-8F2AE7D95F85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{E315F1BB-F2D7-44FC-A3C4-B0DA19993A3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{BA24DD44-C3B8-4DF9-B454-E17B99E1B1A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA24DD44-C3B8-4DF9-B454-E17B99E1B1A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA24DD44-C3B8-4DF9-B454-E17B99E1B1A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E315F1BB-F2D7-44FC-A3C4-B0DA19993A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E315F1BB-F2D7-44FC-A3C4-B0DA19993A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E315F1BB-F2D7-44FC-A3C4-B0DA19993A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E315F1BB-F2D7-44FC-A3C4-B0DA19993A3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
