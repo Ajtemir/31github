@@ -10,7 +10,7 @@ namespace Iterator
 
         // Returns the key of the current element
         public abstract int Key();
-        
+
         // Returns the current element
         public abstract object Current();
         
