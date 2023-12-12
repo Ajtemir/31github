@@ -9,7 +9,6 @@ namespace Mediator
     {
         void Notify(object sender, string ev);
     }
-
     // Concrete Mediators implement cooperative behavior by coordinating several
     // components.
     class ConcreteMediator : IMediator
