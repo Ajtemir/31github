@@ -1,0 +1,3 @@
+The graphs provide information on the volumes of seafood imports in the United States from 2002 to 2022, along with prediction for 2032, and illustrate the distribution of seafood imports among countries in 2022.
+
+Overall, the US seafood imports tripled from $6 billion at the beginning of the period to over $20 billion, with majority of imports sourced from several countries. 
