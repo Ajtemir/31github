@@ -1,0 +1,7 @@
+The graphs provide information on the volumes of seafood imports from n the United States from 2002 to 2022, along with prediction for 2032, and illustrate the distribution of seafood imports among countries in 2022.
+
+Overall, the US seafood imports grew substantially in past two decades,with majority of imports sourced from several countries. In the future, however, the imports are forecast to shrink.
+
+Between the years 2002 and 2022 the seafood imports in the US tripled from about $6 billion at the beginning of the period to over $20 billion in 2022.  Despite the past growth, the graph forecasts decline in seafood imports by approximately $2 billion in 2032 compared to the 2022 levels.
+
+Regarding geographical split of imports China, Thailand and Canada were the dominant countries, controlling two-thirds of market. China had the largest share of seafood imports to the United States(28%), followed China(23%) and Thailand(16%). In contrast, other countries - such as Ecuador, Mali and Nigeria - each contributed less than 10% of the seafood imports.
